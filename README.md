@@ -2,6 +2,15 @@
 
 **Nxt Trendz** is a React-based e-commerce application designed to simulate a shopping experience. This specific iteration focuses on implementing robust **Cart Functionality** using **React Context API** for global state management.
 
+## 🚀 Live Demo
+🔗 **[Launch HRMS Frontend](https://akileshecomapp.ccbp.tech/login)**
+
+### 🔐 Demo Credentials
+* **Email:** `henry`
+* **Password:** `henry_the_developer`
+
+---
+
 ## 🚀 Features
 
 * **Authentication Flow**: Includes a Login page and Protected Routes to ensure only authenticated users can access the main application.
