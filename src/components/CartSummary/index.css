@@ -1,0 +1,46 @@
+.order-summary-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  justify-content: flex-start;
+
+  border: solid;
+  border-radius: 8px;
+  border-width: 1px;
+  padding: 15px;
+  border-color: rgb(193, 193, 193);
+}
+@media screen and (max-width: 768px) {
+  .order-summary-container {
+    width: 100%;
+  }
+}
+.order-summary-heading {
+  font-size: 24px;
+  color: #627281;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.order-summary-amount {
+  color: #151f46;
+  font-size: 24px;
+}
+.order-summary-items {
+  font-size: 20px;
+  color: #627281;
+  margin-top: 1px;
+}
+.checkout-button {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 14px;
+  color: #ffffff;
+  height: 40px;
+  width: 100%;
+  margin: 0;
+  background-color: #0b69ff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
