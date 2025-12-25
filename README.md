@@ -8,6 +8,7 @@
 ### 🔐 Demo Credentials
 * **Email:** `henry`
 * **Password:** `henry_the_developer`
+* order something for you!
 
 ---
 
